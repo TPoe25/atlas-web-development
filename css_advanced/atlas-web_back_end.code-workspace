@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../atlas-web_back_end"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "higher level holberton"
+	}
+}
