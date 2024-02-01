@@ -1,0 +1,45 @@
+.main-part .menu {
+    display: inline-flex;
+    height: 15px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 52px;
+    flex-shrink: 0;
+}
+
+.main-part {
+    background: url('/css_advanced/images/object.png') center no-repeat;
+    background-size: cover;
+    height: 1055px;
+    flex-shrink: 0;
+}
+
+.main-part .background-header .title h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: "Source Sans Pro";
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.main-part .background-header .title button {
+    width: 162px;
+    height: 44px;
+    border-radius: 22px;
+    background: #C271FF;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}
+
+.main-part .background-header .title {
+    color: #FFF;
+    text-align: center;
+    font-family: "Source Sans Pro";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
